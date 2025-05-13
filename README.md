@@ -68,7 +68,7 @@
 
 <h3>📢 Rannkly – Social Media & Review Management</h3>
 <p><strong>Company:</strong> Signifier Technologies</p>
-<p><strong>Role:</strong> Backend Developer</p>
+<p><strong>Role:</strong> Full-Stack Developer</p>
 <p><strong>Tech Stack:</strong> Laravel, MySQL, RESTful APIs</p>
 <ul>
   <li>Engineered a centralized system to manage social media posts and customer reviews.</li>
