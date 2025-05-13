@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Kritika Thakur 👋</h1>
 
 <p align="center">
-  💻 Full-Stack Developer (Laravel & Vue.js)  <br/>
-  🧠 Building Clean Code & Inspiring Minds One Project at a Time
+  💻 Experienced  Full-Stack Developer  <br/>
+ Laravel, Vue.js, PHP, MySQL | Building Scalable, High-Performance Web Applications
 </p>
 
 ---
@@ -35,16 +35,6 @@
   <li><strong>Testing:</strong> Unit Testing, Application Testing</li>
   <li><strong>Workflow:</strong> Agile Methodologies</li>
 </ul>
-
----
-
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thakur-kt&show_icons=true&theme=tokyonight" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakur-kt&layout=compact&theme=tokyonight" alt="Languages" />
-</p>
 
 ---
 
