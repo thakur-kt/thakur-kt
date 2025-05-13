@@ -1,69 +1,79 @@
 <h1 align="center">Hi, I'm Kritika Thakur 👋</h1>
 
 <p align="center">
-  💻 Full-Stack Developer (Laravel & Vue.js) | 🎥 AI Content Creator | ☁️ AWS Enthusiast <br/>
+  💻 Full-Stack Developer (Laravel & Vue.js)  <br/>
   🧠 Building Clean Code & Inspiring Minds One Project at a Time
 </p>
 
 ---
 
-## 🚀 About Me
+## <h2>🚀 About Me</h2>
 
-- 🔧 Full-stack web developer with 8+ years of experience in **Laravel**, **Vue.js**, **PHP**, and **JavaScript**
-- ⚙️ Skilled in backend technologies like **Node.js**, **Python**, and **Redis (queues, caching)**
-- 📊 Data & analytics work with **Cube.js**, **Elasticsearch**, **Kibana**, and **Amazon QuickSight**
-- 🧠 Passionate about AI, storytelling, and building motivational video content for YouTube & Instagram
-- 🛠️ DevOps & deployment experience using **AWS**, **S3**, **EC2**, and more
-- 🧒 Creating animated moral, mythological & inspirational stories using AI tools for kids and adults
+<p>
+  Results-driven <strong>Software Specialist</strong> with 8+ years of experience in developing, debugging, and maintaining
+  <strong>scalable web applications</strong> using <strong>Laravel</strong>, <strong>Vue.js</strong>, and <strong>MySQL</strong>.
+</p>
 
+<ul>
+  <li>⚡ Rapid bug resolution</li>
+  <li>🔧 Performance optimization</li>
+  <li>🛠️ Delivering robust, production-ready code</li>
+</ul>
+
+<p>
+  I’m passionate about clean architecture, efficient development workflows, and turning complex problems into elegant solutions.
+</p>
 ---
 
-## 💼 Tech Stack
+## <h2>💼 Tech Stack</h2>
 
-**Frontend**
-- Vue.js • JavaScript • HTML5 • CSS3 • Tailwind
-
-**Backend**
-- Laravel • PHP • Python • Node.js • Express
-
-**Databases**
-- MySQL • PostgreSQL • Redis
-
-**DevOps & Cloud**
-- AWS (EC2, S3, CloudFront) • GitHub Actions • Linux
-
-**Data & Analytics**
-- Cube.js • Elasticsearch • Kibana • Amazon QuickSight
-
-**Other Tools**
-- Git & GitHub • Postman • Docker (basic) • AI Content Tools
+<ul>
+  <li><strong>Languages & Frameworks:</strong> Laravel, PHP, Vue.js, JavaScript</li>
+  <li><strong>Database:</strong> MySQL, Query Optimisation</li>
+  <li><strong>API & Integration:</strong> RESTful APIs, API Integration, Postman</li>
+  <li><strong>Development Tools:</strong> Git, Debugging, Performance Tuning</li>
+  <li><strong>Testing:</strong> Unit Testing, Application Testing</li>
+  <li><strong>Workflow:</strong> Agile Methodologies</li>
+</ul>
 
 ---
 
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thakur-kt&show_icons=true&theme=tokyonight" alt="Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakur-kt&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
 
 ---
 
 ## 📹 Current Projects
 
-- 🎬 [YouTube Channel (AI Motivational Videos)](https://www.youtube.com) *(coming soon)*
-- 🧙‍♂️ Animated stories of **Akbar-Birbal**, mythological characters & dharmik tales
-- 📈 AI-generated dashboards and reporting tools using **Cube.js** and **QuickSight**
-- 💡 Building a Progressive Web App (PWA) to teach kids via interactive storytelling
+<h2>📂 Featured Projects</h2>
+
+<h3>🍽️ Customizable Weight Loss Meal Plan Platform</h3>
+<p><strong>Role:</strong> Full-Stack Developer</p>
+<p><strong>Company:</strong> NuWare System LLP</p>
+<p><strong>Website:</strong> <a href="https://www.nutrisystem.com" target="_blank">www.nutrisystem.com</a></p>
+<p><strong>Tech Stack:</strong> PHP, Laravel, Vue.js, MySQL, Redis</p>
+
+<ul>
+  <li>Developed and maintained a web-based e-commerce platform offering customizable weight loss meal plans.</li>
+  <li>Implemented meal plan customization based on dietary needs, allergies, and user preferences.</li>
+  <li>Added promotional code and gift card functionality at checkout.</li>
+  <li>Built dynamic cart management with real-time pricing and quantity updates.</li>
+  <li>Enabled subscription upgrades and handled complex pricing logic.</li>
+  <li>Integrated recurring billing, meal scheduling, and email notifications.</li>
+  <li>Used Redis for caching and background jobs to handle high user traffic efficiently.</li>
+</ul>
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)](https://youtube.com/yourchannel)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kritika-t-629485a7/)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:thakurkritika14893@gmail.com)
 
 ---
 
