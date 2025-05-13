@@ -29,9 +29,9 @@
 
 <ul>
   <li><strong>Languages & Frameworks:</strong> Laravel, PHP, Vue.js, JavaScript</li>
-  <li><strong>Database:</strong> MySQL, Query Optimisation</li>
+  <li><strong>Database:</strong> MySQL, Postgres </li>
   <li><strong>API & Integration:</strong> RESTful APIs, API Integration, Postman</li>
-  <li><strong>Development Tools:</strong> Git, Debugging, Performance Tuning</li>
+  <li><strong>Development Tools and skills:</strong> Git, Debugging, Performance Tuning,Query Optimisation</li>
   <li><strong>Testing:</strong> Unit Testing, Application Testing</li>
   <li><strong>Workflow:</strong> Agile Methodologies</li>
 </ul>
